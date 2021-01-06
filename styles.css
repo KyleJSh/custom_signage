@@ -11,11 +11,11 @@
   margin: auto;
   height: 220px;
   width: 420px;
-  background: aqua;
+  background: #c9c9c9;
   border: 1px solid black;
   margin-top: 14rem;
   border-radius: 3px;
-  box-shadow: ;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
 
 .form-title {
@@ -51,7 +51,7 @@ h1 {
   margin-top: 10px;
 }
 
-.amount {
+#cost {
   position: absolute;
   top: 80px;
   right: 80px;
