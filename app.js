@@ -8,3 +8,9 @@ total = price * quantity;
 
 var cost = document.getElementById('cost');
 cost.textContent = "$" + total;
+
+const btn = document.getElementById("btn");
+
+btn.addEventListener('click', e => {
+
+});
